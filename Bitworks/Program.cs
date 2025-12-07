@@ -1,3 +1,2 @@
-﻿
-using var game = new Bitworks.Game1();
+﻿using var game = new BitworksEngine.BitworksGame("");
 game.Run();
